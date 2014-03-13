@@ -7,9 +7,7 @@ The world is becoming smaller and smaller very quickly. We are centrilizing our 
 Provide a way for people all over the world to instatly communicate, weather that be from a laptop, desktop, tablet or mobile phone. Privacy should be blended into the application in such a way that the user does not need to be aware of it.  
 
 ## Other goals for the project
-With project memebers around the world the project must be truely distributed, we must work on ways to be an effective team without having to rely upon single physical locations. Some suggetions so far have been to rely heavily upon GitHub for code/wiki, Trello for task management, Freenode IRC for chat, and the mailing lists. 
+With project members around the world the project must be truely distributed, we must work on ways to be an effective team without having to rely upon single physical locations. Some suggetions so far have been to rely heavily upon GitHub for code/wiki, Trello for task management, Freenode IRC for chat, and the mailing lists. 
 
 ## Err, What's the name about?
-The project is named after the Epiphyte Corp from the book Cryptonomicon by Neal Stephenson. Becasue who doesn't like a geeky book reference, espeically when the book is about a fictional history of Cryptography.
-
-
+Not knowing yet what the group will produce we needed non-descript name. It's named after the Epiphyte Corp from the book Cryptonomicon by Neal Stephenson. Becasue who doesn't like a geeky book reference, espeically when the book is about a fictional history of cryptography.
